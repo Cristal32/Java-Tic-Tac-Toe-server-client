@@ -1,0 +1,8 @@
+# Ignore Eclipse files
+.classpath
+.project
+.settings/
+
+# Ignore dependency directories
+/bin/
+/lib/
