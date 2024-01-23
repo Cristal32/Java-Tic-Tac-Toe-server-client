@@ -26,11 +26,15 @@ Draw scenario:
 You may have noticed another folder called salon, it was for another assignment to create a private salon where users have to get authenticated in order to join and see what other members say. 
 
 Client 1 is successfully authenticated and sends a message: 
-![image](https://github.com/Cristal32/Java-Tic-Tac-Toe-server-client/assets/114748477/fc31a43a-6a70-4be8-888c-0ee813ddf181)
+![image](https://github.com/Cristal32/Java-Tic-Tac-Toe-server-client/assets/114748477/98847361-f9ac-418a-8bf0-0f2a04b095d6)
+
 Client 2 doesn't give the correct credentials and is therefore not allowed to join:
-![image](https://github.com/Cristal32/Java-Tic-Tac-Toe-server-client/assets/114748477/3e88798c-8ac0-41ba-9850-0ed90a328723)
-Client 3 is successfully authenticated and can see the message from Clien 1
-![image](https://github.com/Cristal32/Java-Tic-Tac-Toe-server-client/assets/114748477/e7bd0909-aecb-4118-8b5d-09f8ca2e7144)
+![image](https://github.com/Cristal32/Java-Tic-Tac-Toe-server-client/assets/114748477/eae7669e-c9fc-4e04-ad36-58ea09dfcc60)
+
+Client 3 is successfully authenticated and can see the message from Client 1
+![image](https://github.com/Cristal32/Java-Tic-Tac-Toe-server-client/assets/114748477/49a44f47-525a-457e-aa05-05b9786c7904)
+
 The salon's messages get stored in a separate file: 'salon_messages.txt'
-![image](https://github.com/Cristal32/Java-Tic-Tac-Toe-server-client/assets/114748477/caceddcc-768c-41cb-bd0d-6e510e31080a)
+![image](https://github.com/Cristal32/Java-Tic-Tac-Toe-server-client/assets/114748477/58092c8e-e58b-4961-8dc7-4ec5469dd857)
+
 
