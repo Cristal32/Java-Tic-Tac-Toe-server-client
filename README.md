@@ -26,6 +26,7 @@ Draw scenario:
 You may have noticed another folder called salon, it was for another assignment to create a private salon where users have to get authenticated in order to join and see what other members say. 
 
 Client 1 is successfully authenticated and sends a message: 
+
 ![image](https://github.com/Cristal32/Java-Tic-Tac-Toe-server-client/assets/114748477/98847361-f9ac-418a-8bf0-0f2a04b095d6)
 
 Client 2 doesn't give the correct credentials and is therefore not allowed to join:
